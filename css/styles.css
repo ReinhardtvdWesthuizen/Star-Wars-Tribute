@@ -6,6 +6,7 @@ a {
     color: darkgoldenrod;
 }
 
-#movielist {
-    vertical-align: auto;
+.movielist {
+    text-align: center;
 }
+
